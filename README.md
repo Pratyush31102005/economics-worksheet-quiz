@@ -1,14 +1,13 @@
-# Economics of Health and Education Quiz
+# SelfQuiz - Economics of Health and Education
 
-A mobile-friendly quiz app based on 12 supplied weekly worksheets, with 120 questions.
+A mobile-friendly study and self-assessment app with all 120 questions from 12 supplied worksheets.
 
-- Weekly practice and tests
-- Timed full test
-- Answer review and missed-question retry
-- Progress saved in the current browser
+- Select one or more weeks and choose a custom quiz length
+- Randomized questions and answer options (reference-dependent options preserve their order)
+- Timed tests and untimed practice with answer checks
+- Full 120-question test
+- Searchable study deck with week filters and worksheet answer keys
+- Dark and light themes, saved progress, flags, results, and retry missed questions
 
-Open index.html directly, or serve it with GitHub Pages.
-
-For GitHub Pages, select Settings > Pages > Deploy from a branch, then main and / (root).
-
-Scoring follows the supplied worksheet answer keys. Notes identify apparent inconsistencies in Week 4 questions 4 and 5.
+Open index.html or use the live GitHub Pages website.
+Progress is stored only in the current browser. Answers follow supplied worksheet keys; notes identify apparent inconsistencies in Week 4 questions 4 and 5.
